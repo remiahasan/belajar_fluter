@@ -1,16 +1,27 @@
-# belajar_fluter
+1.  Praktikum Membuat Project Flutter Baru
+    ![hasil praktikum 1](Screenshot_1727163248.png)
 
-A new Flutter project.
+2.  praktikum Membuat Repository GitHub dan Laporan Praktikum
+    ![hasil praktikum 2](image.png)
 
-## Getting Started
+3.  praktikum Menerapkan Widget Dasar
+    ![hasil praktikum 3 langkah 1](Screenshot_1727163309.png)
 
-This project is a starting point for a Flutter application.
+    ![hasil praktikum 3 langkah 2](Screenshot_1727163377.png)
 
-A few resources to get you started if this is your first Flutter project:
+4.  praktikum Menerapkan Widget Material Design dan iOS Cupertino
+    ![hasil praktikum 4 langkah 1](Screenshot_1727163957.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    ![hasil praktikum 4 langkah 2](Screenshot_17271639570.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ![hasil praktikum 4 langkah 3](Screenshot_1727164340.png)
+
+    ![hasil praktikum 4 langkah 4](Screenshot_1727164677.png)
+
+    ![hasil praktikum 4 langkah 4](Screenshot_1727164664.png)
+
+    ![hasil praktikum 4 langkah 5](Screenshot_1727164866.png)
+
+    ![hasil praktikum 4 langkah 6](Screenshot_1727165005.png)
+
+    ![hasil praktikum 4 langkah 6](Screenshot_1727164992.png)
